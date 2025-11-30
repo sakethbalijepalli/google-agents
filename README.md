@@ -1,4 +1,4 @@
-This repository provides an example of building a **modular, agent-driven pipeline** for Python code generation, code review, and code refactoring using the `google.adk` framework. The system demonstrates how to use Large Language Model (LLM) agents in a sequential workflow to automate code writing tasks and ensure quality and consistency.
+This repository provides an example of building a **agent-driven pipeline** for Python code generation, code review, and code refactoring using the `google.adk` framework. The system demonstrates how to use Large Language Model (LLM) agents in a sequential workflow to automate code writing tasks and ensure quality and consistency.
 
 ## Installation
 
