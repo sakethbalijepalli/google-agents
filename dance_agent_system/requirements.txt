@@ -1,0 +1,7 @@
+google-genai
+google-adk
+python-dotenv
+beautifulsoup4
+requests
+duckduckgo-search
+cloudpickle
