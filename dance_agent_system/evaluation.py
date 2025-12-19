@@ -22,7 +22,6 @@ async def evaluate_agent_output():
     
     data_dir = os.path.join(os.path.dirname(__file__), "data")
     
-    # Load outputs
     try:
         with open(os.path.join(data_dir, "opportunities_found.txt"), "r") as f:
             opportunities = f.read()
@@ -54,7 +53,7 @@ async def evaluate_agent_output():
     Feedback: [Your detailed feedback here]
     """
     
-    print("Sending evaluation request to LLM...")
+    print("Sending evaluation request to LLM!!!")
     request = LlmRequest(prompt=prompt_text)
     response_text = ""
     async for chunk in model.generate_content_async(request):

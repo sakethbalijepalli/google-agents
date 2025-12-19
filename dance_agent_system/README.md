@@ -216,9 +216,9 @@ The system will:
 ==================================================
 Welcome to the Dance Agent System!
 ==================================================
-Enter your name: Jane Doe
+Enter your name: XYZ
 
-Hello Jane Doe! Let's find dance opportunities for you.
+Hello XYZ! Let's find dance opportunities for you.
 
 [Discovery Agent runs...]
 ⏸️  [Discovery Agent] Completed
